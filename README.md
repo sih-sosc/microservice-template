@@ -19,6 +19,10 @@ $ npm start
 ```shell
 $ npm run dev
 ```
+
+# DEVELOPMENT
+Add your microservice logic in the main route a.k.a indexroute ('/')
+
 ## Testing the route 
 ### Curl
 ```shell
